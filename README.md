@@ -22,12 +22,12 @@ El juego cuenta con un menú principal interactivo y diversas mecánicas desarro
 * *Configuración:* Interfaz con sliders interactivos para ajustar el volumen de la música y los efectos, además de soporte para modo de Pantalla Completa.
 
 #Controles 
-Arriba: W
-Izquierda: A
-Abajo: S
-Derecha: D
-Disparar: Barra espaciadora
-Interactuar con el menu: Click izquierdo del Mouse
+- Arriba: `W`
+- Izquierda: `A`
+- Abajo: `S`
+- Derecha: `D`
+- Disparar: `Barra espaciadora`
+- Interactuar con el menu: `Click izquierdo del Mouse`
 
 ## Estructura y Arquitectura del Código
 El proyecto fue diseñado aplicando principios de Programación Orientada a Objetos (POO) y una arquitectura modular para separar la lógica, la interfaz y las entidades:
