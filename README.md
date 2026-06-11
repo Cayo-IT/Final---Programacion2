@@ -14,14 +14,14 @@ RunMeal es el nombre de nuestro juego el cual esta inspirado por el genero del t
 en el cual su jugabilidad se trata que apareces en el medio y tienes que eliminar enemigos, la meta es
 intentar eliminar a la maxima cantidad de enemigos y obtener una puntuacion alta.
 
-#Caracteristicas
+##Caracteristicas
 El juego cuenta con un menú principal interactivo y diversas mecánicas desarrolladas desde cero usando Pygame:
 * *Escalado de Dificultad Dinámico:* Por cada 100 puntos obtenidos, la velocidad de los enemigos aumenta, exigiendo mejores reflejos del jugador.
 * *Sistema de Entidades Autónomas:* Los enemigos cuentan con movimiento lateral aleatorio y su propio sistema de recarga para disparar proyectiles de manera independiente.
 * *Sistema de Audio:* Música de ambiente y acción que cambia según el estado del juego, junto con efectos de sonido (SFX) para disparos, daño y explosiones.
 * *Configuración:* Interfaz con sliders interactivos para ajustar el volumen de la música y los efectos, además de soporte para modo de Pantalla Completa.
 
-#Controles 
+##Controles 
 - Arriba: `W`
 - Izquierda: `A`
 - Abajo: `S`
