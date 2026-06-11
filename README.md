@@ -10,7 +10,6 @@ Este juego fue desarrollado por 3 colaboradores los cuales fueron:
 - Carlos Omar Sanchez Torrescano
   
 -----------------------------
-##RUN-MEAL
 RunMeal es el nombre de nuestro juego el cual esta inspirado por el genero del tipo bullet-hell 
 en el cual su jugabilidad se trata que apareces en el medio y tienes que eliminar enemigos, la meta es
 intentar eliminar a la maxima cantidad de enemigos y obtener una puntuacion alta.
