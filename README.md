@@ -40,7 +40,7 @@ El proyecto fue diseñado aplicando principios de Programación Orientada a Obje
 
 ## Requisitos y Dependencias
 Para poder ejecutar este proyecto en tu máquina local, necesitas tener instalado lo siguiente:
-* Python 3.x
+* Python 3.0 (o la mas reciente) 
 * Librería Pygame (`pip install pygame`)
 
 ## Cómo ejecutar el juego
